@@ -1,0 +1,11 @@
+No,Item,Quantity,Price($),Day/Date
+1,Bluetooth Speaker,6,300,Tue Jan  9 23:05:56 2024
+2,Fitness Tracker,5,400,Tue Jan  9 23:08:01 2024
+3,Smartphone,4,3200,Fri Jan 12 08:58:41 2024
+4,E-book Reader,30,3000,Fri Jan 12 21:06:56 2024
+5,Headphones,30,3000,Fri Jan 12 21:08:16 2024
+6,Wireless Mouse,60,1800,Sat Jan 13 09:05:35 2024
+7,Smartphone,10,8000,Sat Jan 13 13:26:35 2024
+8,Smartphone,10,8000,Sat Jan 13 13:29:42 2024
+9,airpods,50,5000,Sat Jan 13 22:55:01 2024
+10,Digital Camera,6,3600,Wed Feb  7 17:35:21 2024

@@ -1,0 +1,11 @@
+No,Product,Stock,Price($)
+1,Laptop,50,1200
+2,Smartphone,80,800
+3,Smart TV,30,1500
+4,Headphones,80,100
+5,Digital Camera,34,600
+6,Wireless Mouse,60,30
+7,Bluetooth Speaker,70,50
+8,Fitness Tracker,90,80
+9,Gaming Console,20,400
+10,E-book Reader,50,90

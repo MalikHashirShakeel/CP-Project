@@ -1,0 +1,10 @@
+1 Laptop: A portable computer with a display and keyboard.Great for work and entertainment.
+2 Smartphone: An advanced mobile phone with various features and applications.
+3 Smart TV: A television with internet connectivity and interactive features.
+4 Headphones: Audio devices worn over the ears for a private listening experience.
+5 Digital Camera: A device for capturing and storing digital images.
+6 Wireless Mouse: A computer mouse that connects to the computer without a physical cable.
+7 Bluetooth Speaker: A portable speaker that connects to devices via Bluetooth.
+8 Fitness Tracker: A wearable device that monitors and tracks fitness-related metrics.
+9 Gaming Console: A specialized computer system for playing video games.
+10 E-book Reader: A portable electronic device for reading digital books.
